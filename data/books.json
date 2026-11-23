@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "type": "Storybook",
+      "item_id": "B001",
+      "title": "Ang Pagong at ang Matsing",
+      "author": "Jose Rizal",
+      "copies_owned": 3,
+      "copies_available": 2,
+      "condition": "Good",
+      "reading_level": "Grades 1-3"
+    },
+    {
+      "type": "Storybook",
+      "item_id": "B002",
+      "title": "Si Juan Tamad",
+      "author": "Folk Tale",
+      "copies_owned": 2,
+      "copies_available": 2,
+      "condition": "Fair",
+      "reading_level": "Grades 1-3"
+    },
+    {
+      "type": "Storybook",
+      "item_id": "B003",
+      "title": "Noli Me Tangere (Abridged)",
+      "author": "Jose Rizal",
+      "copies_owned": 4,
+      "copies_available": 3,
+      "condition": "Good",
+      "reading_level": "Grades 7-10"
+    },
+    {
+      "type": "Textbook",
+      "item_id": "B004",
+      "title": "Science Grade 5",
+      "author": "DepEd",
+      "copies_owned": 5,
+      "copies_available": 4,
+      "condition": "Good",
+      "subject": "Science",
+      "grade_level": 5
+    },
+    {
+      "type": "Textbook",
+      "item_id": "B005",
+      "title": "Mathematics Grade 6",
+      "author": "DepEd",
+      "copies_owned": 5,
+      "copies_available": 5,
+      "condition": "Good",
+      "subject": "Mathematics",
+      "grade_level": 6
+    },
+    {
+      "type": "Textbook",
+      "item_id": "B006",
+      "title": "Araling Panlipunan Grade 8",
+      "author": "DepEd",
+      "copies_owned": 3,
+      "copies_available": 3,
+      "condition": "Poor",
+      "subject": "Social Studies",
+      "grade_level": 8
+    },
+    {
+      "type": "ReferenceMaterial",
+      "item_id": "B007",
+      "title": "Atlas of the Philippines",
+      "author": "NAMRIA",
+      "copies_owned": 1,
+      "copies_available": 1,
+      "condition": "Good",
+      "edition": "3rd Edition"
+    },
+    {
+      "type": "ReferenceMaterial",
+      "item_id": "B008",
+      "title": "English Dictionary",
+      "author": "Merriam-Webster",
+      "copies_owned": 2,
+      "copies_available": 2,
+      "condition": "Good",
+      "edition": "11th Edition"
+    }
+  ]
+}

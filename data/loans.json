@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "loan_id": "L0001",
+      "member_id": "M001",
+      "item_id": "B001",
+      "issue_date": "2026-11-10",
+      "due_date": "2026-11-17",
+      "return_date": null,
+      "status": "active",
+      "note": ""
+    },
+    {
+      "loan_id": "L0002",
+      "member_id": "M002",
+      "item_id": "B004",
+      "issue_date": "2026-11-18",
+      "due_date": "2026-11-25",
+      "return_date": null,
+      "status": "active",
+      "note": ""
+    },
+    {
+      "loan_id": "L0003",
+      "member_id": "M004",
+      "item_id": "B003",
+      "issue_date": "2026-11-17",
+      "due_date": "2026-12-01",
+      "return_date": null,
+      "status": "active",
+      "note": ""
+    },
+    {
+      "loan_id": "L0004",
+      "member_id": "M003",
+      "item_id": "B002",
+      "issue_date": "2026-11-11",
+      "due_date": "2026-11-18",
+      "return_date": "2026-11-16",
+      "status": "returned",
+      "note": ""
+    }
+  ]
+}

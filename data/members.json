@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "type": "Learner",
+      "member_id": "M001",
+      "name": "Ana Reyes",
+      "demerit_points": 0,
+      "suspended_until": null,
+      "grade_level": 5,
+      "section": "Sampaguita"
+    },
+    {
+      "type": "Learner",
+      "member_id": "M002",
+      "name": "Ben Santos",
+      "demerit_points": 0,
+      "suspended_until": null,
+      "grade_level": 6,
+      "section": "Narra"
+    },
+    {
+      "type": "Learner",
+      "member_id": "M003",
+      "name": "Carla Dizon",
+      "demerit_points": 0,
+      "suspended_until": null,
+      "grade_level": 8,
+      "section": "Molave"
+    },
+    {
+      "type": "Teacher",
+      "member_id": "M004",
+      "name": "Mrs. Lourdes Bonquin",
+      "demerit_points": 0,
+      "suspended_until": null,
+      "department": "Science",
+      "reminder_flags": 0
+    }
+  ]
+}
