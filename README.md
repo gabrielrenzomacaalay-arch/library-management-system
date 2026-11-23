@@ -88,3 +88,9 @@ See `docs/AI_USAGE_LOG.md`. The team must keep this log up to date and be able t
 
 ## Authors
 Bonquin · Santos · Sta. Ana — IT121AL Capstone (fill in full names and roles).
+
+## Input Validation
+
+The system uses input validation to help ensure that user-provided data follows the expected format and requirements.
+
+Invalid inputs are handled through validation checks and custom exceptions.
