@@ -88,3 +88,13 @@ See `docs/AI_USAGE_LOG.md`. The team must keep this log up to date and be able t
 
 ## Authors
 Bonquin · Santos · Sta. Ana — IT121AL Capstone (fill in full names and roles).
+
+## Version Control
+
+This project uses Git for version control and GitHub for remote repository hosting.
+
+Development workflow:
+- Main branch for the stable project version.
+- Feature branches for separate improvements.
+- Commits to record project changes.
+- Merging to integrate completed features.
