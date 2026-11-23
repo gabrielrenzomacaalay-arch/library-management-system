@@ -106,3 +106,8 @@ The system uses input validation to help ensure that user-provided data follows 
 
 Invalid inputs are handled through validation checks and custom exceptions.
  feature-validation
+
+## Testing
+
+The project includes automated tests covering library items, members, loan services, repository operations, reports, and the command-line interface.
+
