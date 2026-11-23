@@ -89,6 +89,7 @@ See `docs/AI_USAGE_LOG.md`. The team must keep this log up to date and be able t
 ## Authors
 Bonquin · Santos · Sta. Ana — IT121AL Capstone (fill in full names and roles).
 
+ HEAD
 ## Version Control
 
 This project uses Git for version control and GitHub for remote repository hosting.
@@ -98,3 +99,10 @@ Development workflow:
 - Feature branches for separate improvements.
 - Commits to record project changes.
 - Merging to integrate completed features.
+
+## Input Validation
+
+The system uses input validation to help ensure that user-provided data follows the expected format and requirements.
+
+Invalid inputs are handled through validation checks and custom exceptions.
+ feature-validation
